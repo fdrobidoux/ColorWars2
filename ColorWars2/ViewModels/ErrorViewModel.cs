@@ -1,6 +1,6 @@
 using System;
 
-namespace ColorWars2.Models
+namespace ColorWars2.ViewModels
 {
     public class ErrorViewModel
     {

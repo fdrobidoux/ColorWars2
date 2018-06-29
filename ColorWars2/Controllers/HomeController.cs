@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ColorWars2.Models;
+using ColorWars2.ViewModels;
 
 namespace ColorWars2.Controllers
 {
